@@ -66,9 +66,11 @@ Image (Screenshot) preview :
 http://localhost:4000/
 ```
 <img width="1440" alt="Screenshot 2023-01-29 at 9 56 39 PM" src="https://user-images.githubusercontent.com/102364606/215341199-3960d7ae-f0ac-4e09-b96f-9da4494d4ba8.png">
+
 ```sh
 http://localhost:4000/dhoni
 ```
+
 <img width="1440" alt="Screenshot 2023-01-29 at 10 11 35 PM" src="https://user-images.githubusercontent.com/102364606/215341205-df48ccf4-8661-47d8-bba8-cb6e0a58acd2.png">
 ```sh
 http://localhost:4000/virat

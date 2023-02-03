@@ -1,0 +1,27 @@
+[
+    {
+        "name":"M S Dhoni",
+        "jersey number":7,
+        "born":"7th july, 1981"
+    },
+    {
+        "name":"Virat Kohli",
+        "jersey number":18,
+        "born":"5th November, 1988"
+    },
+    {
+        "name":"Rohit Sharma",
+        "jersey number":45,
+        "born":"30th April, 1987"
+    },
+    {
+        "name":"Surya Kuamr Yadav",
+        "jersey number":63,
+        "born":"14th September, 1990"
+    },
+    {
+        "name":"Hardik Pandya",
+        "jersey number":33,
+        "born":"11th October, 1993"
+    }
+]
